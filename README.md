@@ -1,1 +1,1 @@
-# alura-plus-amanda
+# aluraplus-amanda
